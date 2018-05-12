@@ -1,0 +1,47 @@
+_repo: Ne-rlands-RoemGalerij-van-Beroemde-Nederlanders-uit-het-tijdvak-van-Frederik-Hendrik_44863
+_version: 0.1.0
+alternative_title: "Neêrlands Roem\r\nGalerij van Beroemde Nederlanders uit het tijdvak\
+  \ van Frederik Hendrik"
+contributor:
+  illustrators:
+  - agent_name: Hoevenaar, W. P.
+    gutenberg_agent_id: '42954'
+    url: http://www.gutenberg.org/2009/agents/42954
+  - agent_name: Kate, Herman F. C. ten (Herman Frederik Carel)
+    aliases:
+    - Ten Kate, Herman F. C. (Herman Frederik Carel)
+    - Kate, Herman Frederik Carel ten
+    birthdate: 1858
+    deathdate: 1931
+    gutenberg_agent_id: '42953'
+    url: http://www.gutenberg.org/2009/agents/42953
+covers:
+- cover_type: archival
+  image_path: 44863-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Lennep, J. van (Jacob)
+    aliases:
+    - Lennep, Jakob van
+    - Lennep, Jacob van
+    - Van Lennep, J. (Jacob)
+    birthdate: 1802
+    deathdate: 1868
+    gutenberg_agent_id: '8513'
+    url: http://www.gutenberg.org/2009/agents/8513
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_van_Lennep
+description: ''
+gutenberg_issued: '2014-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44863'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- History -- 17th century -- Biography'
+- !lcc 'DJ'
+- !lcsh 'Frederick Henry, Prince of Orange, 1584-1647 -- Contemporaries -- Biography'
+title: Galerij van Beroemde Nederlanders uit het tijdvak van Frederik Hendrik
+url: http://www.gutenberg.org/ebooks/44863
